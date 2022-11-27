@@ -10,3 +10,8 @@ for line in sys.stdin:
 
 print(ans)
 
+if ans % 2 == 1:
+        print('奇数')
+else:
+        print('偶数')
+
