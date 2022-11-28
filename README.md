@@ -15,9 +15,9 @@
 * 起動する手順
 
      インストール方法：
-　　　
+　　``　
        $  pip install git+https://github.com/ahaya8810/robosys2022.git 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　```　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
      実行方法：
 
     　 seq 〇　| ./plus     (〇には任意の数字)を入力する。
