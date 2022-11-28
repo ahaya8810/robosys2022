@@ -1,6 +1,7 @@
 # robosys2022
-ロボットシステム学の練習リポジトリ
 ![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
+
+ロボットシステム学の練習リポジトリ
 
 # plusコマンド
 
