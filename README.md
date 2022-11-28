@@ -1,9 +1,10 @@
 # robosys2022
-![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ロボットシステム学の練習リポジトリ
 
 # plusコマンド
+
+![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
 
 * 使用用途
 
@@ -24,8 +25,7 @@
     奇数
 
 ## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7〜3.10
+* Python 3.7〜3.10
 
 ## テスト環境
 * Ubuntu
