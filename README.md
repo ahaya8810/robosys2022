@@ -20,9 +20,9 @@
        $  pip install git+https://github.com/ahaya8810/robosys2022.git 
 　　```
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-     実行方法
+     実行方法:
 
-     　$ seq 〇　| ./plus     (〇には任意の数字)を入力する。
+      　$ seq 〇　| ./plus     (〇には任意の数字)を入力する。
 
 * 起動例
 
