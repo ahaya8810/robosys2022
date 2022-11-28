@@ -6,7 +6,7 @@
 
 * 使用用途
 
-![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
+   ![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
 
     標準入力から読み込んだ数字までの連続した整数の数字を足した結果を表示する。
 
