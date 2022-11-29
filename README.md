@@ -15,16 +15,16 @@
 
 ## インストール方法
 
-``
-$  git clone  https://github.com/ahaya8810/robosys2022.git 　
-``
+```
+$  git clone  https://github.com/ahaya8810/robosys2022.git
+$ cd robosys2022
+$ chmod +x plus 　
+```
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ## 実行方法
 
 ```
-$ seq 〇　| ./plus
-$ cd robosys2022
-$ chmod +x plus   
+$ seq 〇　| ./plus   
 ```
    
 （〇には任意の整数を入れる。）
