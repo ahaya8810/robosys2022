@@ -41,7 +41,7 @@ $ seq 5 | ./plus
 * Python 3.7〜3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 22.04
 
 ## 権利
 
