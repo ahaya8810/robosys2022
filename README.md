@@ -15,27 +15,27 @@
 
 ## インストール方法
 
-```
+``
 $  git clone  https://github.com/ahaya8810/robosys2022.git
 $ cd robosys2022
 $ chmod +x plus 　
-```
+``
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ## 実行方法
 
-```
+``
 $ seq 〇　| ./plus   
-```
+``
    
 （〇には任意の整数を入れる。）
 
 ## 起動例
 
-```
+``
 $ seq 5 | ./plus
 15.0 
 奇数
- ```
+``
 
 ## 必要なソフトウェア
 * Python 3.7〜3.10
