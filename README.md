@@ -1,25 +1,25 @@
 # robosys2022
-
- ![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
  
 ロボットシステム学の練習リポジトリ
 
-# plusコマンド
+# plusコマンドのテスト
 
-* 機能
+![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
+
+## 機能
 
 標準入力から読み込んだ数字までの連続した整数の数字を足した結果を表示する。
 
 その後、計算結果が偶数か奇数かを表示する。
 
 
-*  インストール方法
+## インストール方法
 
 ``
 $  git clone  https://github.com/ahaya8810/robosys2022.git 　
 ``
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-*  実行方法
+## 実行方法
 
 ``
 $ seq 〇　| ./plus   
@@ -27,7 +27,7 @@ $ seq 〇　| ./plus
    
 （〇には任意の数字が入る。）
 
-* 起動例
+## 起動例
 
 ```
 $ seq 5 | ./plus
