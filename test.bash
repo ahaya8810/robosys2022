@@ -11,7 +11,7 @@ res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = " 答えは15.0その二乗は225.0 "] || ng $LINENO
+[ "${out}" = "答えは15.0その二乗は225.0"] || ng $LINENO
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
