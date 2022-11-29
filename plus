@@ -10,6 +10,6 @@ for line in sys.stdin:
     except:
         ans += int(line)
 
-print(ans)
+print("答えは" + str(ans) +  "その二乗は" + str(ans ** 2))
 
 
