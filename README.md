@@ -23,7 +23,9 @@ $  git clone  https://github.com/ahaya8810/robosys2022.git 　
 
 ``
 $ seq 〇　| ./plus
+
 $ cd robosys2022
+
 $ chmod +x plus   
 ``
    
