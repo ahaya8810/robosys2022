@@ -16,9 +16,7 @@
 ## インストール方法
 
 ```
-$  git clone  https://github.com/ahaya8810/robosys2022.git
-$ cd robosys2022
-$ chmod +x plus 　
+$  git clone  https://github.com/ahaya8810/robosys2022.git 　
 ```
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ## 実行方法
