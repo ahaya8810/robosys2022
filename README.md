@@ -17,7 +17,7 @@
 $  git clone  https://github.com/ahaya8810/robosys2022.git 　
 ```
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-## 実行方法
+## 実行方法の例
 
 ```
 $ seq 〇　| ./plus   
