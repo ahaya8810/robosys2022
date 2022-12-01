@@ -1,10 +1,10 @@
 # robosys2022
  
+![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
+
 ロボットシステム学の練習リポジトリ
 
-# plusコマンドのテスト
-
-![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
+# plusコマンド
 
 ## 機能
 
