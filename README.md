@@ -2,7 +2,7 @@
  
 ![test](https://github.com/ahaya8810/robosys2022/actions/workflows/test.yml/badge.svg)
 
-ロボットシステム学の練習リポジトリ
+ロボットシステム学の練習リポジトリです
 
 # plusコマンド
 
